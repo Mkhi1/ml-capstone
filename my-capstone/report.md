@@ -1,7 +1,7 @@
 # Titanic Survival Analysis
 ## ML Foundations Bootcamp — Capstone Report
 
-**Student:** Mk
+**Student:** 
 **Dataset:** Titanic Passenger Dataset (891 records)
 **Date:** March 2026
 **Notebooks:** `01_cleaning.ipynb` · `02_features.ipynb` · `03_eda.ipynb` · `04_math.ipynb`
