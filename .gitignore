@@ -1,0 +1,6 @@
+.claude/
+Mkf.py
+Capstone_Project.pdf
+__pycache__/
+*.pyc
+.env
